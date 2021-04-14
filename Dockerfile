@@ -1,5 +1,6 @@
 FROM debian:bullseye-slim
 LABEL maintainer="Jakub Dubec <jakub.dubec@gmail.com>"
+LABEL version="0.1.0"
 
 # Dependencies
 WORKDIR /tmp
